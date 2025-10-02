@@ -66,7 +66,6 @@ Generate a cluster visualization (clusters.png)
 Run the interactive app:
 
 streamlit run app.py
-Open the link shown in the terminal (default: http://localhost:8501) in your browser.
 
 How It Works
 Select a User ID from the dropdown.
@@ -99,4 +98,5 @@ Web App: Streamlit
 
 📌 Notes
 This is a basic recommendation system — it doesn’t yet use advanced collaborative filtering or deep learning.
+
 For larger datasets, you may want to optimize memory usage (e.g., using sparse matrices).
